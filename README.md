@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Anjali Patwal, an MCA graduate and a passionate developer interested in **Data Analytics, Machine Learning, AI, and Software Development**.
+I'm Anjali Patwal, an MCA graduate and a passionate developer interested in **Backend Development, Data Analytics, Machine Learning, AI, and Software Development**.
 
 I enjoy building practical applications, working with data, and exploring
 AI technologies to solve real-world problems.
